@@ -1,6 +1,6 @@
 import React from 'react'
 import { deleteTask } from '../Services/allApis'
-import { useState,useEffect ,useContext} from 'react'
+import { useState,useEffect} from 'react'
 import { allTasks } from '../Services/allApis'
 import { toast } from 'react-toastify'
 import { Link } from 'react-router-dom'
