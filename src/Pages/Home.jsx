@@ -33,7 +33,7 @@ function Home() {
         <h1>Organize Your Work and Life</h1>
         <p>A goal without a plan is just a wish,so start planning now!! </p>
         <div>
-        {/* <Link to={'/auth'} className='btn btn-primary'>Explore</Link> */}
+        
         {
                                 token ?
                                     

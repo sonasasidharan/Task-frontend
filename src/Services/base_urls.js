@@ -1,3 +1,8 @@
-const base_urls="https://task-back-1-g9tt.onrender.com"
+
+
+const base_urls="http://localhost:3000"
+
+
+
 
 export default base_urls
