@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header'
 import Footer from '../Components/Footer'
-import CreateTask from '../Components/createTask'
+import CreateTask from '../Components/CreateTask'
 import AllTasks from '../Components/AllTasks'
 import { Row,Col } from 'react-bootstrap'
 
